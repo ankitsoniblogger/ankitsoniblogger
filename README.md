@@ -1,17 +1,16 @@
 ### Hi, Ankit Soni here! 👋
 
 
+![Portfolio-Resume-CV](https://user-images.githubusercontent.com/38998710/165368939-fd4ed6e6-28b6-4edf-b401-a92b8c2979a1.png)
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on with myself to upgrade knowledge.
+- 🌱 I’m currently learning MERN Development.
+- 👯 I’m looking to collaborate on open-source project
+- 🤔 I’m looking for help with buddy
+- 💬 Ask me about my journey
+- 📫 How to reach me: @ankitsoniblogger
+- 😄 Pronouns: GURU
+- ⚡ Fun fact: UNKNOWN
