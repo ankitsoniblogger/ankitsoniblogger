@@ -1,9 +1,7 @@
 ### Hi, Ankit Soni here! 👋
+🔥🔥 Gooo! and Check ✅ https://ankitsoni.in/
 
-
-![Portfolio-Resume-CV](https://user-images.githubusercontent.com/38998710/165368939-fd4ed6e6-28b6-4edf-b401-a92b8c2979a1.png)
-
-
+![image](https://github.com/ankitsoniblogger/ankitsoniblogger/assets/38998710/aa3dc932-f452-48e8-9a47-10a8cc55ac80)
 
 
 - 🔭 I’m currently working on with myself to upgrade knowledge.
