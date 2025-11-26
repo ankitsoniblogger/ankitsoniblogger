@@ -3,7 +3,7 @@
 🔥🔥 Gooo! and Check ✅ https://ankitsoni.in/
 
 <div align="center">
-  <img src="https://github.com/ankitsoniblogger/ankitsoniblogger/assets/38998710/4ada76e1-0037-4dd9-b682-dc20c008af1b" />
+  <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/4ec800ea-c6db-41b7-822e-0b7e85deec5b" />
 </div>
 
 
