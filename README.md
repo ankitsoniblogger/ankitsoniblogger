@@ -1,21 +1,59 @@
-### :man_technologist: About Me: 
 
-🔥🔥 Gooo! and Check ✅ https://ankitsoni.in/
+# Hi there, I'm Ankit Soni 👋
 
-<div align="center">
-  <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/4ec800ea-c6db-41b7-822e-0b7e85deec5b" />
-</div>
+## 👨‍💻 About Me
 
-
-- 🔭 Currently sharpening my skills through real-world projects
-- 🌱 Deepening my knowledge in MERN stack development
-- 🧠 Exploring system design and scalable web apps
-- 👯 Open to collaborating on meaningful open-source projects
-- 💬 Happy to share lessons from my learning and work journey
-- 📫 Reach me on Instagram: @ankitsoniblogger
-- ⚡ Fun fact: I enjoy breaking things just to understand how they work
+I am a passionate **Full-Stack Developer** dedicated to building scalable web applications and seamless user experiences. I thrive on turning complex problems into elegant, functional code and am always looking for ways to optimize performance and security.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsoniblogger&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🛠 Tech Stack
+
+### 💻 Frontend
+
+**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+
+**Frameworks/Libraries:** React.js, Next.js
+
+**Styling:** Tailwind CSS, Bootstrap, Material UI
+
+### 📎 Backend
+
+**Environments:** Node.js, Python
+
+**Frameworks:** Express.js, Django, Fast API
+
+**Databases:** PostgreSQL, MongoDB, MySQL, Redis
+
+### ☁️ DevOps & Tools
+
+**Cloud:** AWS (EC2, S3), Google Cloud
+
+**Containers:** Docker, Kubernetes
+
+**Workflow:** Git, GitHub Actions, CI/CD Pipelines, Nginx
+
+
+## 🚀 Top Projects
+Below are some of the professional platforms I have developed and maintained:
+
+ - [Ankit Soni](https://ankitsoni.in/) - My personal portfolio and professional hub.
+ - [OiO Travels](https://oiotravels.com/) - Comprehensive travel booking and management platform.
+ - [Education Clock](https://educationclock.com/) - Ed-tech portal for learning resources.
+ - [All India Darshan](https://educationclock.com/) - Tourism and pilgrimage guide across India.
+ - [Durgesh Soni](https://educationclock.com/) - Professional portfolio and service showcase.
+ - [Swisso 360](https://educationclock.com/) - Business solutions and service management.
+ - [Almahira](https://educationclock.com/) - Custom web presence and branding site.
+
+
+
+
+### 🤝 Open Source & Collaboration
+- **Open Source**: I love contributing to the community! If you have an interesting open-source project, I'd love to help out.
+
+- **Work with me**: Have a project in mind? I am available for freelance opportunities and collaborations.
+
+### 📫 Reach Me
+- Email: hello@ankitsoni.in
+- Status: Open for new projects and professional networking.
