@@ -41,10 +41,10 @@ Below are some of the professional platforms I have developed and maintained:
  - [Ankit Soni](https://ankitsoni.in/) - My personal portfolio and professional hub.
  - [OiO Travels](https://oiotravels.com/) - Comprehensive travel booking and management platform.
  - [Education Clock](https://educationclock.com/) - Ed-tech portal for learning resources.
- - [All India Darshan](https://educationclock.com/) - Tourism and pilgrimage guide across India.
- - [Durgesh Soni](https://educationclock.com/) - Professional portfolio and service showcase.
- - [Swisso 360](https://educationclock.com/) - Business solutions and service management.
- - [Almahira](https://educationclock.com/) - Custom web presence and branding site.
+ - [All India Darshan](https://allindiadarshan.com/) - Tourism and pilgrimage guide across India.
+ - [Durgesh Soni](https://durgeshsoni.com/) - Professional portfolio and service showcase.
+ - [Swisso 360](https://swisso360.com/) - Business solutions and service management.
+ - [Almahira](https://almahira.me/) - Custom web presence and branding site.
 
 
 
